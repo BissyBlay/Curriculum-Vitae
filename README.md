@@ -6,8 +6,10 @@ Bismark Blay	(+1) 757 676 9282 / 816 627 9751
 bismarkblay7@gmail.com
  6310 NW Hogan Drive, Apt 2
 Kansas City, Missouri, USA
+
 PERSONAL PROFILE
 I am a reliable, hardworking, and self-motivated young man with strong commitment to duty. I look forward to pursuing a career in any productive area by identifying with the institution and immensely contributing to the growth of that organization. I also seek to identify challenging positions that will bring out the best in me and develop my competencies, skills, capabilities, and educational background to reach the vision and mission of any organization I find myself.
+
 EDUCATION
 2023 - Date		Park University, Kansas City – Missouri, USA
 MSc Information Systems and Business Analytics  
@@ -18,6 +20,7 @@ High School, General Science
 2009 - 2013		Christ Leading Preparatory School, Esiama - Ghana
 BECE 
 2001 – 2009	 Naraguta Grammar School, Asanta
+
 WORK EXPERIENCE
 January 2023 – December 2023       Business Development Manager, Adom Electrical Wholesales, Ghana
 •	Developed sales strategies and responsible for market analysis.
@@ -38,6 +41,7 @@ June, 2018 – August, 2018		Intern, Ghana National Gas Company – Atuabo.
 •	Monitored and calibrated process control transducers and measuring instruments.
 •	Carried out preventive maintenance on field instruments.
 •	Performed preventive maintenance works on electrical motors.
+
 SKILLS
 Languages: Python, R, SQL  
 Tools: Git, GitHub, Tableau, Power BI, RStudio  
@@ -47,16 +51,18 @@ SEMINARS/CONFERENCES ATTENDED
 2020	Young Ghanaian Leaders’ Summit 2020.
 2019	7th Annual ALUMaT Lecture - Harnessing Mineral Resources Towards Sustainable Economic Development.          
 2018	6th Annual ALUMaT Lecture – Investing in Engineering, Research and Education in UMaT.                                                               
+
 CERTIFICATES/AWARDS
 2021	Certificate of Participation - SMIVIC Communication Limited Business and Leadership Summit.
 2012	2nd Position – Science, Technology, Engineering, and Mathematics Innovation Fair 2012 for Junior High Schools in Ellembelle District.
+
 REFERENCES
 Ing. Eric Tackie
 Takoradi International Company (TAQA)
 Engineer, Instrumentation and Control
 (+233) 244518562
 Eric.tackie@taqa.com
-	Mr Fuseini Mumuni
+Mr Fuseini Mumuni
 University of Mines and Technology
 Lecturer, Electrical and Electronic Eng. Department
 (+233) 271060756
