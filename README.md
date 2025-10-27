@@ -59,7 +59,9 @@ Business Development Manager, Adom Electrical Wholesales, Ghana
 
 •	Generated monthly sales report for evaluation and decision making.
 
-November 2021- December 2022		National Service Personnel, Takoradi International Company – Aboadze. (Instrumentation and Control Engineer Trainee).
+November 2021- December 2022		
+
+National Service Personnel, Takoradi International Company – Aboadze. (Instrumentation and Control Engineer Trainee).
 
 •	Carried out preventive maintenance schedules, installations, and calibrations of field instruments such as pressure gauges, pressure transmitters, pressure switches, temperature gauges, thermocouples, and RTDs.
 
@@ -69,7 +71,9 @@ November 2021- December 2022		National Service Personnel, Takoradi International
 
 •	Worked on high-quality documents, updated spreadsheets, and produced timely reports using MS office suite.
 
-June, 2019 – July, 2019		Intern, Volta River Authority – Kpone.
+June, 2019 – July, 2019		
+
+Intern, Volta River Authority – Kpone.
 
 •	Calibration and configuration of pressure and temperature transmitters using the HART communicator.
 
@@ -77,7 +81,9 @@ June, 2019 – July, 2019		Intern, Volta River Authority – Kpone.
 
 •	Carried out preventive maintenance on field instruments and electrical panels.
 
-June, 2018 – August, 2018		Intern, Ghana National Gas Company – Atuabo.
+June, 2018 – August, 2018		
+
+Intern, Ghana National Gas Company – Atuabo.
 
 •	Monitored and calibrated process control transducers and measuring instruments.
 
@@ -121,7 +127,7 @@ Engineer, Instrumentation and Control
 
 Eric.tackie@taqa.com
 
-Mr Fuseini Mumuni
+Dr Fuseini Mumuni
 
 University of Mines and Technology
 
