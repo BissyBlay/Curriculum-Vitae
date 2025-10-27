@@ -19,19 +19,28 @@ I am a reliable, hardworking, and self-motivated young man with strong commitmen
 
 EDUCATION
 
-2023 - Date		Park University, Kansas City – Missouri, USA
+2023 - Date		
+
+Park University, Kansas City – Missouri, USA
 
 MSc Information Systems and Business Analytics  
 
-2017 - 2021		University of Mines and Technology, Tarkwa - Ghana
+2017 - 2021		
+
+University of Mines and Technology, Tarkwa - Ghana
 
 BSc Electrical and Electronic Engineering 
 
-2013 - 2016		St Augustine’s College, Cape Coast - Ghana 
+2013 - 2016		
+
+St Augustine’s College, Cape Coast - Ghana 
 
 High School, General Science 
 
-2009 - 2013		Christ Leading Preparatory School, Esiama - Ghana
+2009 - 2013		
+
+Christ Leading Preparatory School, Esiama - Ghana
+
 BECE 
 
 2001 – 2009	 Naraguta Grammar School, Asanta
